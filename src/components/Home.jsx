@@ -46,14 +46,14 @@ function Home() {
     />
     <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">PERSONAL </h1>
     <p><span className="text-indigo-700">DATE OF BITH: </span>21,12,200</p>
-    <p><span>GENDER: </span>MALE</p>
-    <p><span>MATERIAL STATE: </span>Single</p>
-    <p><span>PLACE OF BIRTH: </span> KAMPONG CHAM PROVINCE</p>
+    <p><span className="text-indigo-700">GENDER: </span>MALE</p>
+    <p><span className="text-indigo-700" >MATERIAL STATE: </span>Single</p>
+    <p><span className="text-indigo-700">PLACE OF BIRTH: </span> KAMPONG CHAM PROVINCE</p>
 
       <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">EDUCATION </h1>
-      <p><span>HIGHT SCHOOL:</span> soramrith hight school <span>2019-2022</span> </p>
-      <p><span>UNOVERCITY:</span> BELTEI UNIVERCITY <span>2019-2022</span> </p>
-      <p><span>SHORT COURSE:</span> BELTEI UNIVERCITY <span>2019-2022</span> </p>
+      <p><span className="text-indigo-700">HIGH SCHOOL:</span> soramrith high school <span>2019-2022</span> </p>
+      <p><span className="text-indigo-700">UNOVERCITY:</span> BELTEI UNIVERCITY <span>2024-2025</span> </p>
+      <p><span className="text-indigo-700">SHORT COURSE:</span> BELTEI UNIVERCITY <span>2024-2025</span> </p>
   </div>
   <div className="bg-gray-500 w-full sm:w-1/3 p-4 text-center text-white">
   <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">TRAINNING COURSES </h1>
@@ -69,7 +69,7 @@ function Home() {
   <li><span>ENGLISH : </span>Meduim</li>
 
  <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">WORK EXPERIANCE  </h1>
- <li><span>ENGLISH : </span>No Experiance</li>
+ <li><span> EXPERIANCE : </span>No Experiance</li>
 </div>
   <div className="bg-gray-800 w-full sm:w-1/3 p-4 text-white text-center">
  <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-20 ">SKILLS </h1>
