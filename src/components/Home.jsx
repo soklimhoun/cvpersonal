@@ -36,7 +36,8 @@ function Home() {
     </div>
 
 
-    <h1 className="text-center mt-10 mb-10 sm:mb-30sm:mt-30 text-3xl font-semibold ">About Me</h1>
+    <h1 className="text-center mt-10 mb-10 sm:mb-30sm:mt-30 text-3xl font-semibold underline ">About Me</h1>
+   
 <div className="flex flex-col sm:flex-row justify-between text-center p-6">
   <div className="bg-gray-200 w-full sm:w-1/3 p-4 flex justify-center items-center flex-col">
     <img
