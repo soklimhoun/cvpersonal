@@ -70,7 +70,9 @@ function Home() {
   <li><span>ENGLISH : </span>Meduim</li>
 
  <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">WORK EXPERIANCE  </h1>
- <li><span> EXPERIANCE : </span>No Experiance</li>
+ <li><span> EXPERIANCE : </span>No Experiance with Real Project / Company</li>
+ <li><span> EXPERIANCE : </span>Teach at ReanClass </li>
+
 </div>
   <div className="bg-gray-800 w-full sm:w-1/3 p-4 text-white text-center">
  <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-20 ">SKILLS </h1>
