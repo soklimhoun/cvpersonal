@@ -41,7 +41,7 @@ function Home() {
 <div className="flex flex-col sm:flex-row justify-between text-center p-6">
   <div className="bg-gray-200 w-full sm:w-1/3 p-4 flex justify-center items-center flex-col">
     <img
-      className="rounded-full w-70 h-70 object-cover border-3 border-indigo-500/50 shadow-lg"
+      className="rounded-full w-70 h-70 sm:w-60 sm:h-60 object-cover border-3 border-indigo-500/50 shadow-lg"
       src={personal}
       alt="Profile"
     />
@@ -76,44 +76,44 @@ function Home() {
 </div>
   <div className="bg-gray-800 w-full sm:w-1/3 p-4 text-white text-center">
  <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-20 ">SKILLS </h1>
- <h1 className="mt-10 bg-gray-400 w-70 p-4 rounded-md  m-auto ">Front End </h1>
-  <div className="flex gap-20">
+ <h1 className="mt-10 bg-gray-400 w-70 p-4 rounded-md  m-auto sm:w-50 ">Front End </h1>
+  <div className="flex gap-20 sm:gap-2 lg:gap-30">
  <img
-      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg"
+      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg md:w-25 md:h-25 lg:w-30 lg:h-30"
       src={html}
       alt="Profile"
     />
     <h1 className="flex justify-center items-center mt-10 ">HTML</h1>
 </div>
- <div className="flex sm:gap-20 gap-1">
+ <div className="flex gap-10 sm:gap-2 lg:gap-30">
  <img
-      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg "
+      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg md:w-25 md:h-25 lg:w-30 lg:h-30"
       src={css}
       alt="Profile"
     />
     <h1 className="flex justify-center items-center mt-10  ">CSS / BOOTSTRAP / TAILWIND</h1>
 </div>
 
- <div className="flex gap-20">
+ <div className="flex gap-20 sm:gap-2 lg:gap-30">
  <img
-      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg"
+      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg md:w-25 md:h-25 lg:w-30 lg:h-30"
       src={javascript}
       alt="Profile"
     />
     <h1 className="flex justify-center items-center mt-10 ">JAVASCRIPT</h1>
 </div>
- <div className="flex gap-20">
+ <div className="flex gap-20 sm:gap-2 lg:gap-30">
  <img
-      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg"
+      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg md:w-25 md:h-25 lg:w-30 lg:h-30"
       src={react}
       alt="Profile"
     />
     <h1 className="flex justify-center items-center mt-10 ">REACT JS</h1>
 </div>
- <h1 className="mt-10 bg-gray-400 w-70 p-4 rounded-md  m-auto ">Back End </h1>
- <div className="flex sm:gap-20 gap-2">
+ <h1 className="mt-10 bg-gray-400 w-70 p-4 rounded-md  m-auto sm:w-50 ">Back End </h1>
+ <div className="flex gap-10 sm:gap-2 lg:gap-30">
  <img
-      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg"
+      className="rounded-full w-30 h-30 object-cover mt-10 border-3 border-indigo-500/50 shadow-lg md:w-25 md:h-25 lg:w-30 lg:h-30"
       src={laravel}
       alt="Profile"
     />
