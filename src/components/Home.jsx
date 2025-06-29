@@ -46,7 +46,7 @@ function Home() {
       alt="Profile"
     />
     <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">PERSONAL </h1>
-    <p><span className="text-indigo-700">DATE OF BITH: </span>21,12,200</p>
+    <p><span className="text-indigo-700">DATE OF BIRTH: </span>21,12,200</p>
     <p><span className="text-indigo-700">GENDER: </span>MALE</p>
     <p><span className="text-indigo-700" >MATERIAL STATE: </span>Single</p>
     <p><span className="text-indigo-700">PLACE OF BIRTH: </span> KAMPONG CHAM PROVINCE</p>
@@ -67,11 +67,11 @@ function Home() {
 
  <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">LANGAUGES </h1>
   <li><span>KHMER   : </span> Native</li>
-  <li><span>ENGLISH : </span>Meduim</li>
+  <li><span>ENGLISH : </span>Medium</li>
 
  <h1 className="mt-10 bg-gray-400 w-full p-4 rounded-md mb-10 ">WORK EXPERIANCE  </h1>
- <li><span> EXPERIANCE : </span>No Experiance with Real Project / Company</li>
- <li><span> EXPERIANCE : </span>Teach at ReanClass </li>
+ <li><span> EXPERIENCE : </span>No Experience with Real Project / Company</li>
+ <li><span> EXPERIENCE : </span>Teach at ReanClass </li>
 
 </div>
   <div className="bg-gray-800 w-full sm:w-1/3 p-4 text-white text-center">
